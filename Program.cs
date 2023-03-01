@@ -29,4 +29,3 @@ int[] mass = Array(size);
 int s = Hou(ar);//не видит переменную, менял и на переменные. Вывод именно count делал(ну а вдруг)))) 
 Console.Write($"чч - {s} ");
 Console.Write($" {String.Join(", ", mass)} ");
-Console.Write("Всё?");
